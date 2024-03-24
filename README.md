@@ -1,4 +1,4 @@
-![Screenshot (145)](https://github.com/Bisma-Shafiq/Computer_vision_Virtual_Paint_Project/assets/148833585/f07fce91-4993-4e45-85d5-e60f3b402b49)# Computer_vision_Virtual_Paint_Project
+# Computer_vision_Virtual_Paint_Project
 **Description**:
 Create an immersive virtual painting experience where users can paint digitally by utilizing contour detection to track objects' movements in real-time, facilitated through computer vision techniques.
 
@@ -18,6 +18,8 @@ Create an immersive virtual painting experience where users can paint digitally 
 
 7- Application: Ideal for educational purposes, creative exploration, or interactive installations, providing an engaging experience for users to express their creativity digitally through contour-based painting.
 ![Screenshot (143)](https://github.com/Bisma-Shafiq/Computer_vision_Virtual_Paint_Project/assets/148833585/8e103862-255a-48dd-8de4-8ef6eeda608a)
+![Screenshot (145)](https://github.com/Bisma-Shafiq/Computer_vision_Virtual_Paint_Project/assets/148833585/f07fce91-4993-4e45-85d5-e60f3b402b49)
 
 
 
+![Screenshot (146)](https://github.com/Bisma-Shafiq/Computer_vision_Virtual_Paint_Project/assets/148833585/6ddd45e8-0872-4162-9815-7fab53e26635)
