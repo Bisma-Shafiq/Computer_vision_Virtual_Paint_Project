@@ -18,8 +18,7 @@ Create an immersive virtual painting experience where users can paint digitally 
 
 7- Application: Ideal for educational purposes, creative exploration, or interactive installations, providing an engaging experience for users to express their creativity digitally through contour-based painting.
 
-![Screenshot (143)](https://github.com/Bisma-Shafiq/Computer_vision_Virtual_Paint_Project/assets/148833585/b51d3f73-e03b-4b8c-bd65-62e9c3b54e5f)
 
-![Screenshot (145)](https://github.com/Bisma-Shafiq/Computer_vision_Virtual_Paint_Project/assets/148833585/c0c35807-a063-4f79-9c73-a66e874962e9)
 
-![Screenshot (146)](https://github.com/Bisma-Shafiq/Computer_vision_Virtual_Paint_Project/assets/148833585/02f1bf91-f1e5-4bf1-a9c3-1f2bccbce009)
+![Screenshot (143)](https://github.com/Bisma-Shafiq/Computer_vision_Virtual_Paint_Project/assets/148833585/c82cf614-ee5c-498c-93c3-9f2f535bb718)
+
