@@ -1,0 +1,3 @@
+Language:  Python
+Editor : Pycharm
+Libraries: Open CV , CVZone , Numpy , Mediapipe 
